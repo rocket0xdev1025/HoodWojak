@@ -1,0 +1,546 @@
+.elementor-8 .elementor-element.elementor-element-6a6c3397 {
+  --display: flex;
+  --min-height: 110vh;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --justify-content: center;
+  --background-transition: 0.3s;
+  --padding-top: 40px;
+  --padding-bottom: 40px;
+  --padding-left: 0px;
+  --padding-right: 0px;
+}
+.elementor-8
+  .elementor-element.elementor-element-6a6c3397:not(.elementor-motion-effects-element-type-background),
+.elementor-8
+  .elementor-element.elementor-element-6a6c3397
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-image: url("/src/back.jpg");
+  background-position: top center;
+  background-size: cover;
+}
+.elementor-8 .elementor-element.elementor-element-6a6c3397,
+.elementor-8 .elementor-element.elementor-element-6a6c3397::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-481cef7f {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: initial;
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --flex-wrap-mobile: wrap;
+  --justify-content: center;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-27881624 {
+  width: auto;
+  max-width: auto;
+}
+.elementor-8 .elementor-element.elementor-element-27881624 .elementor-button {
+  font-family: "Jua", Sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  fill: #000000;
+  color: #000000;
+  background-color: #0eff78;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-radius: 0px 0px 0px 0px;
+  box-shadow: 3px 4px 0px 0px rgba(0, 0, 0, 0.88);
+}
+.elementor-8 .elementor-element.elementor-element-784c330 {
+  width: auto;
+  max-width: auto;
+}
+.elementor-8 .elementor-element.elementor-element-784c330 .elementor-button {
+  font-family: "Jua", Sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  fill: #000000;
+  color: #000000;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-radius: 0px 0px 0px 0px;
+  box-shadow: 3px 4px 0px 0px rgba(0, 0, 0, 0.88);
+}
+.elementor-8 .elementor-element.elementor-element-cb6d6de {
+  width: auto;
+  max-width: auto;
+}
+.elementor-8 .elementor-element.elementor-element-cb6d6de .elementor-button {
+  font-family: "Jua", Sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  fill: #000000;
+  color: #000000;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-radius: 0px 0px 0px 0px;
+  box-shadow: 3px 4px 0px 0px rgba(0, 0, 0, 0.88);
+}
+.elementor-8 .elementor-element.elementor-element-7073a0e4 {
+  --display: flex;
+  --background-transition: 0.3s;
+  --z-index: 99;
+}
+.elementor-8 .elementor-element.elementor-element-73520575 img {
+  width: 100%;
+}
+.elementor-8 .elementor-element.elementor-element-8f7d773 img {
+  width: 46%;
+}
+.elementor-8 .elementor-element.elementor-element-79df76eb {
+  width: auto;
+  max-width: auto;
+}
+.elementor-8
+  .elementor-element.elementor-element-79df76eb
+  > .elementor-widget-container {
+  margin: 0px 0px 0px 0px;
+}
+.elementor-8 .elementor-element.elementor-element-79df76eb .elementor-button {
+  font-family: "Jua", Sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  fill: #000000;
+  color: #000000;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-radius: 0px 0px 0px 0px;
+  box-shadow: 3px 4px 0px 0px rgba(0, 0, 0, 0.88);
+}
+.elementor-8 .elementor-element.elementor-element-142b475d {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --flex-wrap-mobile: wrap;
+  --align-items: center;
+  --background-transition: 0.3s;
+  --margin-top: -90px;
+  --margin-bottom: 0px;
+  --margin-left: 0px;
+  --margin-right: 0px;
+  --padding-top: 160px;
+  --padding-bottom: 160px;
+  --padding-left: 0px;
+  --padding-right: 0px;
+}
+.elementor-8
+  .elementor-element.elementor-element-142b475d:not(.elementor-motion-effects-element-type-background),
+.elementor-8
+  .elementor-element.elementor-element-142b475d
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-image: url("/wp-content/uploads/2025/04/Asset-232-scaled.png");
+  background-position: top center;
+  background-size: cover;
+}
+.elementor-8 .elementor-element.elementor-element-142b475d,
+.elementor-8 .elementor-element.elementor-element-142b475d::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-43c416bb {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-73923ae1 {
+  text-align: left;
+}
+.elementor-8 .elementor-element.elementor-element-73923ae1 img {
+  width: 100%;
+}
+.elementor-8 .elementor-element.elementor-element-1609a43c {
+  color: #000000;
+  font-family: "Jua", Sans-serif;
+  font-weight: 400;
+}
+.elementor-8 .elementor-element.elementor-element-f665e23 {
+  --display: flex;
+  --justify-content: center;
+  --align-items: center;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-f665e23,
+.elementor-8 .elementor-element.elementor-element-f665e23::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-3c23c595 img {
+  width: 80%;
+}
+.elementor-8 .elementor-element.elementor-element-56863f18 {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --flex-wrap-mobile: wrap;
+  --align-items: center;
+  --gap: 60px 60px;
+  --background-transition: 0.3s;
+  --margin-top: -90px;
+  --margin-bottom: 0px;
+  --margin-left: 0px;
+  --margin-right: 0px;
+  --padding-top: 120px;
+  --padding-bottom: 90px;
+  --padding-left: 0px;
+  --padding-right: 0px;
+}
+.elementor-8
+  .elementor-element.elementor-element-56863f18:not(.elementor-motion-effects-element-type-background),
+.elementor-8
+  .elementor-element.elementor-element-56863f18
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-image: url("/src/wait.jpg");
+  background-position: top center;
+  background-size: cover;
+}
+.elementor-8 .elementor-element.elementor-element-56863f18,
+.elementor-8 .elementor-element.elementor-element-56863f18::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-55248d9d {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-57e244c3 {
+  text-align: left;
+}
+.elementor-8 .elementor-element.elementor-element-57e244c3 img {
+  width: 100%;
+}
+.elementor-8 .elementor-element.elementor-element-d652f04 {
+  --display: flex;
+  --background-transition: 0.3s;
+  border-style: solid;
+  --border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  --border-top-width: 2px;
+  --border-right-width: 2px;
+  --border-bottom-width: 2px;
+  --border-left-width: 2px;
+  border-color: #050505;
+  --border-color: #050505;
+  box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 0.87);
+  --margin-top: 0px;
+  --margin-bottom: 0px;
+  --margin-left: 0px;
+  --margin-right: 0px;
+  --padding-top: 24px;
+  --padding-bottom: 24px;
+  --padding-left: 24px;
+  --padding-right: 24px;
+}
+.elementor-8
+  .elementor-element.elementor-element-d652f04:not(.elementor-motion-effects-element-type-background),
+.elementor-8
+  .elementor-element.elementor-element-d652f04
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #ffffff;
+}
+.elementor-8 .elementor-element.elementor-element-d652f04,
+.elementor-8 .elementor-element.elementor-element-d652f04::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-51e3f509 {
+  color: #000000;
+  font-family: "Jua", Sans-serif;
+  font-weight: 400;
+}
+.elementor-8 .elementor-element.elementor-element-1e0c28c2 {
+  width: auto;
+  max-width: auto;
+}
+.elementor-8
+  .elementor-element.elementor-element-1e0c28c2
+  > .elementor-widget-container {
+  margin: 0px 0px 0px 0px;
+}
+.elementor-8 .elementor-element.elementor-element-1e0c28c2 .elementor-button {
+  font-family: "Jua", Sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  fill: #000000;
+  color: #000000;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-radius: 0px 0px 0px 0px;
+  box-shadow: 3px 4px 0px 0px rgba(0, 0, 0, 0.88);
+}
+.elementor-8 .elementor-element.elementor-element-c47a83f {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-c47a83f,
+.elementor-8 .elementor-element.elementor-element-c47a83f::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-566ffce {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --background-transition: 0.3s;
+  --margin-top: 0px;
+  --margin-bottom: 0px;
+  --margin-left: 0px;
+  --margin-right: 0px;
+  --padding-top: 10px;
+  --padding-bottom: 10px;
+  --padding-left: 0px;
+  --padding-right: 0px;
+  --z-index: 9;
+}
+.elementor-8
+  .elementor-element.elementor-element-566ffce:not(.elementor-motion-effects-element-type-background),
+.elementor-8
+  .elementor-element.elementor-element-566ffce
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #000000;
+}
+.elementor-8 .elementor-element.elementor-element-566ffce,
+.elementor-8 .elementor-element.elementor-element-566ffce::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-8054987 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --background-transition: 0.3s;
+  --margin-top: -5px;
+  --margin-bottom: 0px;
+  --margin-left: 0px;
+  --margin-right: 0px;
+  --padding-top: 40px;
+  --padding-bottom: 40px;
+  --padding-left: 0px;
+  --padding-right: 0px;
+}
+.elementor-8
+  .elementor-element.elementor-element-8054987:not(.elementor-motion-effects-element-type-background),
+.elementor-8
+  .elementor-element.elementor-element-8054987
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-image: url("/src/store.jpg");
+  background-position: top center;
+  background-size: cover;
+}
+.elementor-8 .elementor-element.elementor-element-8054987,
+.elementor-8 .elementor-element.elementor-element-8054987::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-d44cea3 {
+  --display: flex;
+  --background-transition: 0.3s;
+  --z-index: 99;
+}
+.elementor-8 .elementor-element.elementor-element-28d18b7 img {
+  width: 50%;
+}
+.elementor-8 .elementor-element.elementor-element-3339599 {
+  --display: flex;
+  --background-transition: 0.3s;
+  border-style: solid;
+  --border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  --border-top-width: 2px;
+  --border-right-width: 2px;
+  --border-bottom-width: 2px;
+  --border-left-width: 2px;
+  border-color: #050505;
+  --border-color: #050505;
+  box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 0.87);
+  --margin-top: 0px;
+  --margin-bottom: 0px;
+  --margin-left: 0px;
+  --margin-right: 0px;
+  --padding-top: 32px;
+  --padding-bottom: 32px;
+  --padding-left: 32px;
+  --padding-right: 32px;
+}
+.elementor-8
+  .elementor-element.elementor-element-3339599:not(.elementor-motion-effects-element-type-background),
+.elementor-8
+  .elementor-element.elementor-element-3339599
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #ffffff;
+}
+.elementor-8 .elementor-element.elementor-element-3339599,
+.elementor-8 .elementor-element.elementor-element-3339599::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-ac5e95b {
+  text-align: center;
+  color: #050505;
+  font-family: "Jua", Sans-serif;
+  font-weight: 400;
+}
+.elementor-8 .elementor-element.elementor-element-fff9c80 {
+  width: auto;
+  max-width: auto;
+}
+.elementor-8
+  .elementor-element.elementor-element-fff9c80
+  > .elementor-widget-container {
+  margin: 0px 0px 0px 0px;
+}
+.elementor-8 .elementor-element.elementor-element-fff9c80 .elementor-button {
+  font-family: "Jua", Sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  fill: #000000;
+  color: #000000;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-radius: 0px 0px 0px 0px;
+  box-shadow: 3px 4px 0px 0px rgba(0, 0, 0, 0.88);
+}
+.elementor-8 .elementor-element.elementor-element-823128c {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --background-transition: 0.3s;
+  --margin-top: 0px;
+  --margin-bottom: 0px;
+  --margin-left: 0px;
+  --margin-right: 0px;
+  --padding-top: 10px;
+  --padding-bottom: 10px;
+  --padding-left: 0px;
+  --padding-right: 0px;
+}
+.elementor-8
+  .elementor-element.elementor-element-823128c:not(.elementor-motion-effects-element-type-background),
+.elementor-8
+  .elementor-element.elementor-element-823128c
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #000000;
+}
+.elementor-8 .elementor-element.elementor-element-823128c,
+.elementor-8 .elementor-element.elementor-element-823128c::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-a7ff16a {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --background-transition: 0.3s;
+  --margin-top: 0px;
+  --margin-bottom: 0px;
+  --margin-left: 0px;
+  --margin-right: 0px;
+  --padding-top: 10px;
+  --padding-bottom: 10px;
+  --padding-left: 0px;
+  --padding-right: 0px;
+}
+.elementor-8
+  .elementor-element.elementor-element-a7ff16a:not(.elementor-motion-effects-element-type-background),
+.elementor-8
+  .elementor-element.elementor-element-a7ff16a
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #000000;
+}
+.elementor-8 .elementor-element.elementor-element-a7ff16a,
+.elementor-8 .elementor-element.elementor-element-a7ff16a::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-3083cd7 {
+  text-align: center;
+  color: #ffffff;
+  font-family: "Jua", Sans-serif;
+  font-weight: 400;
+}
+@media (min-width: 768px) {
+  .elementor-8 .elementor-element.elementor-element-c47a83f {
+    --width: 60%;
+  }
+}
+@media (max-width: 767px) {
+  .elementor-8 .elementor-element.elementor-element-27881624 .elementor-button {
+    font-size: 20px;
+  }
+  .elementor-8 .elementor-element.elementor-element-784c330 .elementor-button {
+    font-size: 20px;
+  }
+  .elementor-8 .elementor-element.elementor-element-cb6d6de .elementor-button {
+    font-size: 20px;
+  }
+  .elementor-8 .elementor-element.elementor-element-8f7d773 img {
+    width: 75%;
+  }
+  .elementor-8 .elementor-element.elementor-element-c47a83f {
+    --width: 500px;
+    --margin-top: 0px;
+    --margin-bottom: -60px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+  }
+  .elementor-8 .elementor-element.elementor-element-c47a83f.e-con {
+    --order: -99999 /* order start hack */;
+  }
+  .elementor-8 .elementor-element.elementor-element-32dc7fc img {
+    width: 78%;
+  }
+  .elementor-8 .elementor-element.elementor-element-28d18b7 img {
+    width: 100%;
+  }
+} /* Start custom CSS for image, class: .elementor-element-3c23c595 */
+@keyframes rotateInfinite {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.elementor-8 .elementor-element.elementor-element-3c23c595 {
+  animation: rotateInfinite 8s linear infinite;
+} /* End custom CSS */
